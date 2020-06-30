@@ -305,5 +305,7 @@ http://103.205.133.42:1935/local/ptv_world_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://english.alarabiya.net/.resources/aa-templating-lm/webresources/english/en/gfx/news-logo.png",AL ARABIA
 http://103.205.133.42:1935/local/al_arabia_720/index.m3u8
 
-EXTINF:-1, Fashion TV Paris
+#EXTINF:-1, Fashion TV Paris
 http://n0bz7noq.akciatv.ru/iptv/VC2AHXZZ2NDA8M/2045/index.m3u
+#EXTINF:-1, AXN HD 
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=560616872200
